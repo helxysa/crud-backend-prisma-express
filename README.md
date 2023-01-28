@@ -5,6 +5,7 @@
 - SQLITE
 - Javascript
 - Node
+- cors
 ## Dependencias
 - npm
 ## Como iniciar servidor
